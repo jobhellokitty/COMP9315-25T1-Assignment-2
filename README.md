@@ -3,7 +3,7 @@ COMP9315 25T1 Assignment 2  multi-attribute hashing ，linear hashing
 
 # Programming tutoring, add me if you need it
 
-## WeChat: richasara 
+##微信: richasara 
 
 ## QQ： 16663755
 
